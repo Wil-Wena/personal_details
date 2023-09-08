@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:personal_details/main.dart';
+import 'package:personal_details/home_screen.dart';
 
 class WelcomeScreen extends StatelessWidget {
   const WelcomeScreen({super.key});
@@ -54,7 +54,7 @@ class WelcomeScreen extends StatelessWidget {
                     // Navigate to your app's main screen
                     Navigator.of(context).pushReplacement(
                       MaterialPageRoute(
-                        builder: (context) => const MyApp(),
+                        builder: (context) => HomeScreen(),
                       ),
                     );
                   },
