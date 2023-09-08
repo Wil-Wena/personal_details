@@ -34,10 +34,10 @@ class WelcomeScreen extends StatelessWidget {
                   style: TextStyle(
                     fontSize: 24,
                     fontWeight: FontWeight.w900,
-                    color: Colors.blue,
+                    color: Colors.white,
                   ),
                 ),
-                const SizedBox(height: 100),
+                const SizedBox(height: 20),
                 // Welcome message
                 const Text(
                   "Welcome! Discover my Slack and GitHub profiles.",
@@ -63,6 +63,9 @@ class WelcomeScreen extends StatelessWidget {
                     style: TextStyle(fontSize: 18),
                   ),
                 ),
+                SizedBox(
+                  height: 70,
+                )
               ],
             ),
           ),
