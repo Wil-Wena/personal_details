@@ -51,7 +51,7 @@ class WelcomeScreen extends StatelessWidget {
 
                 ElevatedButton(
                   onPressed: () {
-                    // Navigate to your app's main screen
+                    // Navigate to your main screen
                     Navigator.of(context).pushReplacement(
                       MaterialPageRoute(
                         builder: (context) => HomeScreen(),
@@ -59,11 +59,11 @@ class WelcomeScreen extends StatelessWidget {
                     );
                   },
                   child: const Text(
-                    "Get Started",
+                    "View",
                     style: TextStyle(fontSize: 18),
                   ),
                 ),
-                SizedBox(
+                const SizedBox(
                   height: 70,
                 )
               ],
