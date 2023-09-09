@@ -25,6 +25,6 @@ This Flutter mobile application showcases my Slack name, incorporates your Slack
 ## Screenshots of the App
 ![2023-09-09 00-01-06 High Res Screenshot](https://github.com/Wil-Wena/personal_details/assets/73749082/353ffb80-4147-4d6f-8d3c-ff2d31c033cd)
 ![2023-09-09 00-01-06 High Res Screenshot](https://github.com/Wil-Wena/personal_details/blob/main/assets/main_screen.png)
-![2023-09-09 00-01-06 High Res Screenshot](https://github.com/Wil-Wena/personal_details/blob/main/assets/github_page.png)
+![2023-09-09 00-01-06 High Res Screenshot](https://github.com/Wil-Wena/personal_details/blob/main/assets/github_webview.png)
 
 
